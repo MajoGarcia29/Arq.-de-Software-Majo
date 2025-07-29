@@ -1,1 +1,2 @@
-# Arq.-de-Software-Majo
+# Arq. deSoftware
+##María José García Castañeda
