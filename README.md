@@ -1,2 +1,3 @@
-# Arq. deSoftware
-##María José García Castañeda
+# Arq. de Software
+## María José García Castañeda
+
